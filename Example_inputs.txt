@@ -1,0 +1,7 @@
+# This file should contain the directory name and the specific input file names for this job
+
+Case folder = Example
+Monomers inputs = monomers_inputs.txt
+Initiator inputs = initiator_inputs.txt
+Curing inputs = curing_inputs.txt
+Simulation inputs = simulation_inputs.txt
