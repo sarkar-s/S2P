@@ -1,0 +1,9 @@
+# This file contains the inputs for the BFM lattice and the algorithm
+
+Lattice half size = 40
+Simulation time = 10000
+Output interval = 1000
+Output casename = test
+Write video output = No
+Equilibrium tolerance = 0.01
+Minimum sample size = 100

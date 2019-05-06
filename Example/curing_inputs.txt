@@ -1,0 +1,14 @@
+# This file contains the details of the curing light
+# 0.0615797492265
+
+Lighting mode (Linear ramp or Pulse) = Linear ramp
+Excitation rate constant = 0.1
+Curing time (in seconds) = 10
+Temperature (in K) = 300
+
+# Additional input for linear ramp
+Ramp time (in seconds) = 0
+
+# Additional input for pulse
+Pulse width (in seconds) = 0.0
+Pulse gap (in seconds) = 0.0

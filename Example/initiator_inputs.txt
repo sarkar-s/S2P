@@ -1,0 +1,14 @@
+# This file contains the specifics of the initiator/co-initiator system
+
+Initiation type (unimolecular or bimolecular) = unimolecular
+Percentage of initiators (mole fraction) = 0.01
+
+# The following inputs are only for a bimolecular initiation system
+Percentage of co-initiators (mole fraction) = 1.0
+Initiator volume (in A^3) = 100
+Co-initiator volume (in A^3) = 100
+Initiator surface area (in A^2) = 100
+Co-initiator surface area (in A^2) = 100
+Initiator molecular weight = 100
+Co-initiator molecular weight = 100
+Excitation lifetime of the initiator = 1E-6

@@ -1,0 +1,31 @@
+# This file contains all the physical and chemical details of the photopolymerizing system
+
+# Polymerization parameters
+Cyclization(or cross-linking) factor = 1.0 
+Mean neighboring functional groups = 10
+Interaction range = 2
+Site occupancy fraction = 0.7
+Monomer types = 1
+Monomer 1: Mole fraction = 1.0
+Monomer 1: Functionality = 1
+
+#Chain length = 1000
+
+Rate constants file = prop_matrix.txt
+Termination constants file = term_matrix.txt
+
+# Monomer properties
+Monomer 1: Molecular volume (in Angstroms^3) = 500
+Monomer 1: Molecular weight (in Da) = 500
+Monomer 1: Self interaction energy (in eV) = 0.1036
+Monomer 1: Hopping rate = 1.0
+Viscosity (in Pa.s) = 1.0
+
+Reaction enthalpy (in kJ/mole) = 55
+Density (in g/cm^3) = 1.2455
+
+# Bond energy specification
+Bond length stiffness (in eV) = 0.0518
+Bond angle stiffness (in eV) = 0.0
+Interaction energy with initiators (in eV) = 0.1293
+Interaction energy with coinitiators (in eV) = 0.1293
